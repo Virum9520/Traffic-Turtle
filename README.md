@@ -1,2 +1,6 @@
 # Traffic-Turtle
-Python GUI game using Turtle Graphics
+A Python game using GUI tool-Turtle Graphics
+
+Help turtle cross a road full of moving vehicles using ⬆️ and ⬇️ keys
+
+
